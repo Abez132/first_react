@@ -1,0 +1,12 @@
+div{
+    padding: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    background-color: black;
+    color: rgb(143, 136, 127);
+    border-radius: 6px;
+}
+
+ul{
+    list-style-type:square;
+}
